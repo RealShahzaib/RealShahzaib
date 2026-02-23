@@ -12,7 +12,9 @@ I'm currently focused on pivoting my Computer Science background into **Defensiv
 ### 📂 Featured Labs & Notes
 * [Wireshark Revision Notes](https://github.com/RealShahzaib/cybersecurity-learning-journal/blob/main/TryHackMe/Cyber101/Wireshark-Basics.md) - Protocol analysis & traffic patterns.
 * [Nmap Methodology](https://github.com/RealShahzaib/cybersecurity-learning-journal/blob/main/TryHackMe/Cyber101/Wireshark-Basics.md) - Network discovery & auditing.
+* [Cryptography Notes](https://github.com/RealShahzaib/cybersecurity-learning-journal) - Deep-dive into hashing, ciphers, and secure communication
 * [OverTheWire: Bandit](https://github.com/RealShahzaib/OverTheWire-Bandit-Solutions) - Linux CLI & privilege escalation basics.
+  
 
 [LinkedIn](https://www.linkedin.com/in/shahzaib-shah-756465388/) | [TryHackMe Profile](https://tryhackme.com/p/realshahzaibshah)
 
