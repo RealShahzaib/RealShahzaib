@@ -14,5 +14,5 @@ I'm currently focused on pivoting my Computer Science background into **Defensiv
 * [Nmap Methodology](link) - Network discovery & auditing.
 * [OverTheWire: Bandit](link) - Linux CLI & privilege escalation basics.
 
-[LinkedIn](Your-Link-Here) | [TryHackMe Profile](Your-Link-Here)
+[LinkedIn](https://www.linkedin.com/in/shahzaib-shah-756465388/) | [TryHackMe Profile](https://tryhackme.com/p/realshahzaibshah)
 
